@@ -119,14 +119,16 @@ width: 90%;
  }
 .divTeacher{
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  align-items: center;
 }
 
  .imageContainer>img{
     width: 250px;
     height: 250px;
     border-radius: 50%;
+    align-items: center;
  }
-  .text{
+  .caption{
     text-align: center;
   }
 
