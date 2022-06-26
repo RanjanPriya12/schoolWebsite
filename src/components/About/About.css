@@ -19,6 +19,7 @@ width: 100%;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 10px;
     cursor: pointer;
+    padding-top: 10px;
 }
 .imageDiv>img{
     height: 300px;
@@ -34,7 +35,7 @@ color: rgb(91, 88, 88);
 
 .detailDiv{
     font-size: 16px;
-    color: rgb(77, 75, 75);
+    color: rgb(91, 88, 88);
 }
 
 @media screen  and (min-width:360px) and (max-width:760px){
@@ -48,4 +49,24 @@ color: rgb(91, 88, 88);
         margin: auto;
         gap: 20px;
     }
+    .aboutContainer>h1{
+        
+        font-size: 22px;
+       
+        }
+        .imageDiv>img{
+            height: 200px;
+            width: 200px;
+            
+        }
+        .teacherDiv{
+            width: 300px;
+            height: 300px;
+           margin: auto;
+           padding-top: 10px;
+        }
+        .detailDiv{
+            font-size: 14px;
+            
+        }
 }

@@ -71,8 +71,8 @@ color: #fff;
   }
 
   .principleImage>img{
-    height: 400px;
-    width: 400px;
+    height: 250px;
+    width: 250px;
     border-radius: 50%;
    margin-right: 60px;
   }
@@ -87,50 +87,35 @@ color: #fff;
     width: 25%;
   }
 
-.teacherContainer{
-    width: 100%;
-    margin: auto;
-    margin-top: 200px;
-    background-color: bisque;
-    padding: 30px;
-}
-  .teachers{
-display: flex;
-gap: 20px;
-width: 90%;
-    margin: auto;
-  }
-
-  .teacherContainer>h1{
-    text-align: center;
-    font-size: 35px;
-    letter-spacing: 1px;
-    color: rgb(99, 96, 96);
-  }
 
   .teacherContainer>h1:hover{
     color: seagreen;
   }
-  .imageContainer {
-    display: inline-block;
-    position: relative;
-    text-align: center;
-    cursor: pointer;
- }
-.divTeacher{
-  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-  align-items: center;
+ 
+.teacherContainer{
+  margin-top: 50px;
+  margin-bottom: 30px;
+  
 }
 
- .imageContainer>img{
-    width: 250px;
-    height: 250px;
-    border-radius: 50%;
+.teacherContainer>h1{
+  text-align: center;
+  color: rgb(71, 68, 68);
+}
+  .teachers{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
     align-items: center;
- }
-  .caption{
     text-align: center;
+    width: 95%;
+    margin: auto;
   }
+.imageContainer>img{
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
 
  .swiper-slide img {
     display: block;
@@ -152,33 +137,59 @@ width: 90%;
     width: 90%;
         margin: auto;
       }
-      .text {
-        right: 250px;
-     }
+      .imageContainer>img{
+        width: 200px;
+        height: 200px;
+      
+      }
      
   .principle{
     display: grid;
     grid-template-columns: repeat(1,1fr);
-    justify-content: space-between;
-    width: 50%;
-    margin: auto;
     margin-top: 10px;
-    height: 300px;
-    margin-bottom: 800px;
+   text-align: center;
+    margin-bottom: 400px;
   }
   .principleImage>img{
-    height: 300px;
-    width: 300px;
+    height: 200px;
+    width: 200px;
     border-radius: 50%;
+    margin-left: 80px;
   }
   .principle .principleDetails{
     width: 98%;
     line-height: 30px;
-    font-size: 17px;
+    font-size: 14px;
     color: gray;
   }
-  .principle .principleImage{
-    width: 80%;
+
+  .swiper-slide .text {
+    font-size: 14px;
+    max-width: 400px;
+    line-height: 1;
+  }
+
+  .swiper-slide .title {
+    font-size: 20px;
+    font-weight: 300;
+    
+  }
+  
+  .swiper-slide .subtitle {
+    font-size: 14px;
+  }
+  .h1{
+    font-size: 20px;
+  }
+  
+  .principleDetails>h1{
+    font-size: 20px;
+  }
+  .principleDetails>p{
+    font-size: 12px;
+  }
+  .teacherContainer>h1{
+    font-size: 18px;
   }
 }
   

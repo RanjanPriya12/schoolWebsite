@@ -93,7 +93,7 @@ export const Home = () => {
           <h1>About Principle of Our School</h1>
           <p>Welcome to Hampton Junior School (HJS) which is part of the Hampton Primary Partnership (HPP) with Hampton Infant School. This partnership enables the two schools to closely work together to provide a consistently high standard of education and a coherent approach to the education of all our children. HPP has a single governing body but both schools retain their individual identities and Ofsted ratings.  We have a shared vision, to be a partnership which all children have the opportunity to reach excellence and we work hard to achieve this.
 
-            It is a great privilege to be part of the Executive Leadership Team at HPP, this team includes myself, Ms Helen Lockey and the Heads of both schools. Mr Patrick Tidd is the Head of School (HoS) at Hampton Junior School. We are ably supported by a dedicated and highly skilled leadership team, talented staff and a strong governing body.</p>
+            </p>
         </div>
         <div className='principleImage'><img src="https://cdn-images-1.medium.com/max/1000/1*iWEDscGCgG--gVy_fYXcZQ.jpeg" alt="principle" /></div>
       </div>

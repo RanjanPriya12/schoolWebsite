@@ -30,14 +30,16 @@ function Contact() {
                 <h4>Eamil id: </h4>
                 <h4>Mobile Number: </h4>
                 </div>
+                <div><h2>Address of Our School</h2>
+          
+           <h4>Naini Laar Road Devoria (Uttar Pradesh)</h4> 
+               <h4>School Code : 1406,District Code: 77</h4>
+          
+              
+            </div>
                 
             </div>
-            <div className='address'><h2>Address of Our School</h2>
-            <pre>
-               <i>Naini Laar Road Devoria (Uttar Pradesh),</i> 
-               <i>School Code : 1406,</i>
-               <i>District Code: 77,</i>
-            </pre></div>
+           
     </div>
   );
 }
