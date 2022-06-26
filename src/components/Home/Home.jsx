@@ -36,7 +36,7 @@ export const Home = () => {
           className="parallax-bg"
           style={{
             "background-image":
-              "url(https://lh3.googleusercontent.com/7yj70oiO8GOf8e49G_cIBZI6bPPRG-3yb0XaMDqPQSfrAZl-7NirzaL9Et2loZeBlPbZ9Y7otx6Zu8TCP3BKeGrC6jfkRTyr2ZScRZqrop7G9tZzW45o-Czx-RpdUqiw4bVjwgZDdvElRkWG01Ve5P0p8qO0M3WydX6NugrN41eAw9wFllvGWx7_YglQyBL9nWlW3a5CwHMqvOrLopG0wSPjoniYiYU9r6obZVX6r0fvlvTNmBKchswT_q82DHOifS-gCFwzOYZPwwTYYg1rM25QE1eziRzmMDM05cYLZ7LjTmkDQxtfxxxXDFYqNTzqVSGgu_u7saA27MR5O3V2voasfxeZEBTU2O1G5WLJbZMA0lXzRIz6COqd3yuzPFRrN1QyDufL5M20qQxmvWTajT7eZyR6GwtNlYDthngrzFuGfmVMa0q_fbOvMePSmbqFO1BVlywAQaPp43JdBRP24OVIDpxmcEHh_Pb1yVvvJzJdSUtamOPFqVvquZIuVzY1cB53uujL91Zxt4GX4nEVNCrN3yAyHzsOELSAseMna6MuwH8oGKsbGwOyH1X8uRyQfGxHzBIvY43keNfkuHdXnCYIc1XWKeLk6r15kGzOstdp1ZN84vfNUhLL935iBSUoAfb0T3m_kp5zB0wB-Gxwnd1DWbogXLFf--jZhhTFa37XmisOH7e3KNFvylCHHLcvt5_QY9UaW8Ke59shkr6vvUkuqhYQdH1DQ6nbfFzvLBJyKMCDBPz8tAZlSTA=w1224-h727-no?authuser=0)",
+              "url(https://cdn-images-1.medium.com/max/1000/1*_rPxyMGuFg2V5nPPey834w.jpeg)",
           "opacity":"0.5"
             }}
           data-swiper-parallax="-23%"
