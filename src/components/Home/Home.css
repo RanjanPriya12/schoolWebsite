@@ -117,21 +117,18 @@ width: 90%;
     text-align: center;
     cursor: pointer;
  }
-
- .text {
-    position: absolute;
-    bottom: 50px;
-    color:black;
-    font-size: 12px;
-    right: 55px;
- }
+.divTeacher{
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
 
  .imageContainer>img{
     width: 250px;
     height: 250px;
     border-radius: 50%;
  }
-  
+  .text{
+    text-align: center;
+  }
 
  .swiper-slide img {
     display: block;
