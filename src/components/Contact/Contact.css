@@ -1,0 +1,54 @@
+.contactDetails{
+    text-align: center;
+    background-color: gray;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+.contactDetails>div>h2{
+    font-size: 25px;
+}
+.contactDetails>div>h4{
+    font-size: 16px;
+    font-weight: 400;
+}
+.address{
+    text-align: center;
+    background-color: gray;
+    padding: 40px;
+    margin-bottom: -50px;
+    color: white;
+}
+.address>h2{
+    font-size: 25px;
+    color: white;
+}
+
+@media screen  and (min-width:360px) and (max-width:760px){
+    .contactDetails{
+        text-align: center;
+        background-color: gray;
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        justify-content: space-around;
+        align-items: center;
+        text-align: center;
+        color: white;
+    }
+    .address>h2{
+        font-size: 20px;  
+    }
+    
+    .address>p{
+        text-align: center; 
+        align-items: center;
+    }
+    .contactDetails>div>h2{
+        font-size: 20px;
+    }
+    .contactDetails>div>h4{
+        font-size: 14px;
+        font-weight: 300;
+    }
+}

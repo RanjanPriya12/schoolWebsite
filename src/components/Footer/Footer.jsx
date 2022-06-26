@@ -29,10 +29,7 @@ export const Footer = () => {
         </div>
         <div className='flex'>
             <h3>
-            Copyright 2022 Maan Phulajhari Devi Junior School
-            </h3>
-            <h3>
-                School website designer Priya Ranjan & Satendra Yadav
+            @ Copyright 2022 Maan Phulajhari Devi Junior School
             </h3>
         </div>
         </div>
